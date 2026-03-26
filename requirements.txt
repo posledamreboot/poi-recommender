@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+osmnx
+shapely
+pytest
